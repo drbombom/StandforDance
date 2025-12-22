@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a92ff5ca1709dd43bd7675f90970e44
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69534
+  packageName: Fullscreen Editor
+  packageVersion: 2.2.10
+  assetPath: Packages/com.mibdev.fullscreen-editor/Editor/GameViewLowResolutionAspectRatios.cs
+  uploadId: 803440

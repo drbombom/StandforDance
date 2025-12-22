@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 838d3286f0973344ab6e99d3951012f7
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69534
+  packageName: Fullscreen Editor
+  packageVersion: 2.2.10
+  assetPath: Packages/com.mibdev.fullscreen-editor/FullscreenEditor.asmdef
+  uploadId: 803440

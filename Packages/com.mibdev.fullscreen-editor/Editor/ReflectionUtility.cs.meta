@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: bf03c2f7a14d3bf4da513b03829e3157
+timeCreated: 1508968711
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69534
+  packageName: Fullscreen Editor
+  packageVersion: 2.2.10
+  assetPath: Packages/com.mibdev.fullscreen-editor/Editor/ReflectionUtility.cs
+  uploadId: 803440

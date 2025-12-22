@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d4d34183a65705a41a116cf6e52733a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69534
+  packageName: Fullscreen Editor
+  packageVersion: 2.2.10
+  assetPath: Packages/com.mibdev.fullscreen-editor/Editor/FullscreenContainer.cs
+  uploadId: 803440

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3d9b0f9753978a44b0bbd17799a7e31
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 69534
+  packageName: Fullscreen Editor
+  packageVersion: 2.2.10
+  assetPath: Packages/com.mibdev.fullscreen-editor/package.json
+  uploadId: 803440
