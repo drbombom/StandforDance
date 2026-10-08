@@ -40,6 +40,7 @@
   <div>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
       <li><strong>指導老師</strong>：<a href="https://ixd.ntut.edu.tw/p/406-1089-110727,r1713.php?Lang=zh-tw" target="_blank" rel="noopener noreferrer">韓秉軒 Han Ping-Hsuan</a> 副教授</li>
+      <li><strong>助教團隊</strong>：和小我</li>
       <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
     </ul>
   </div>
