@@ -35,7 +35,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <div>
-    <img src="https://ixd.ntut.edu.tw/var/file/89/1089/pictures/280/m/mczh-tw700x700_large19125_980685165558.jpeg" alt="韓秉軒副教授照片" width="150" style="border-radius: 8px;">
+    <img src="README%20檔案/%E9%9F%93%E7%A7%89%E8%BB%92%E7%85%A7%E7%89%87.jpeg" alt="韓秉軒副教授照片" width="150" style="border-radius: 8px;">
   </div>
   <div>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
@@ -54,10 +54,10 @@
 
 ## 📺 教材示範影片：FoPDAI - Practice 2
 <p align="center">
-  <a href="https://youtu.be/I_TfnCPqWdc" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/I_TfnCPqWdc/0.jpg" alt="FoPDAI - Practice 2 教材示範影片" width="80%"><br>
-    🎬 點擊觀看 FoPDAI - Practice 2 教材示範影片
-  </a>
+  <video width="80%" controls>
+    <source src="README%20檔案/FoPDAI%20-%20Practice%202-854x480-avc1-mp4a.mp4" type="video/mp4">
+    您的瀏覽器不支援影片標籤。
+  </video>
 </p>
 
 ---
