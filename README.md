@@ -51,7 +51,44 @@
 
 ---
 
-## 🌟 2026 最新學生成果展示
+## 🌟 2026 學生成果展示(MIDI Control 展示)
+
+<table align="center">
+  <tr>
+    <td width="33.3%" align="center">
+      <a href="https://www.youtube.com/watch?v=sD2pSSbV2N8" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/sD2pSSbV2N8/0.jpg" alt="DAY×DAY" width="100%"><br>
+        🎬 DAY×DAY
+      </a>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://www.youtube.com/watch?v=qhsRYqRembE" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/qhsRYqRembE/0.jpg" alt="讚喔" width="100%"><br>
+        🎬 讚喔
+      </a>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://www.youtube.com/watch?v=wpD6uEzgGxM" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/wpD6uEzgGxM/0.jpg" alt="阿呀撒" width="100%"><br>
+        🎬 阿呀撒
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center">
+      <a href="https://www.youtube.com/watch?v=cWdYdezo1z4" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/cWdYdezo1z4/0.jpg" alt="Constance MW" width="100%"><br>
+        🎬 Constance MW
+      </a>
+    </td>
+    <td width="33.3%" align="center" colspan="2">
+      <!-- 預留空間或可繼續填入其他項目 -->
+    </td>
+  </tr>
+</table>
+---
+
+## 🌟 2026 學生成果展示
 
 <table align="center">
   <tr>
