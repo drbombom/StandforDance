@@ -54,11 +54,12 @@
 
 ## 📺 教材示範影片：FoPDAI - Practice 2
 <p align="center">
-  <video width="80%" controls>
-    <source src="README%20檔案/FoPDAI%20-%20Practice%202-854x480-avc1-mp4a.mp4" type="video/mp4">
-    您的瀏覽器不支援影片標籤。
-  </video>
+  <a href="https://www.youtube.com/watch?v=I_TfnCPqWdc" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/I_TfnCPqWdc/0.jpg" alt="FoPDAI - Practice 2 教材示範影片" width="80%"><br>
+    🎬 點擊觀看 FoPDAI - Practice 2 教材示範影片
+  </a>
 </p>
+
 
 ---
 
