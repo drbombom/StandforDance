@@ -22,13 +22,12 @@
 - [👨‍🏫 課程團隊](#-課程團隊)
 - [🌟 教學目標](#-教學目標)
 - [📺 教材示範影片](#-教材示範影片)
-- [🌟 2026 最新學生成果展示](#-2026-最新學生成果展示)
+- [🌟 2026 最新學生成果展示 (MIDI Control 展示)](#-2026-最新學生成果展示midi-control-展示)
+- [🌟 2026 學生成果展示](#-2026-學生成果展示)
 - [🌟 2025 學生成果展示](#-2025-學生成果展示)
 - [🌟 2024 學生成果展示](#-2024-學生成果展示)
 - [🛠️ 核心技術與學習重點](#️-核心技術與學習重點)
 - [📖 教學概要](#-教學概要)
-
----
 
 ---
 
@@ -45,6 +44,7 @@
     </ul>
   </div>
 </div>
+
 ---
 
 ## 🌟 教學目標
@@ -52,17 +52,17 @@
 
 ---
 
-## 📺 教材示範影片
+## 📺 教材示範影片：FoPDAI - Practice 2
 <p align="center">
   <a href="https://youtu.be/I_TfnCPqWdc" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.youtube.com/vi/I_TfnCPqWdc/0.jpg" alt="教材示範影片" width="80%"><br>
-    🎬 點擊觀看教材示範影片
+    <img src="https://img.youtube.com/vi/I_TfnCPqWdc/0.jpg" alt="FoPDAI - Practice 2 教材示範影片" width="80%"><br>
+    🎬 點擊觀看 FoPDAI - Practice 2 教材示範影片
   </a>
 </p>
 
 ---
 
-## 🌟 2026 學生成果展示(MIDI Control 展示)
+## 🌟 2026 學生成果展示 (MIDI Control 展示)
 
 <table align="center">
   <tr>
@@ -97,6 +97,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🌟 2026 學生成果展示
