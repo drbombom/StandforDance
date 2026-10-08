@@ -40,7 +40,7 @@
   <div>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
       <li><strong>指導老師</strong>：<a href="https://ixd.ntut.edu.tw/p/406-1089-110727,r1713.php?Lang=zh-tw" target="_blank" rel="noopener noreferrer">韓秉軒 Han Ping-Hsuan</a> 副教授</li>
-      <li><strong>助教團隊</strong>：和小我</li>
+      <li><strong>助教團隊</strong>：等待名字中~~~~</li>
       <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
     </ul>
   </div>
@@ -118,19 +118,19 @@
     <td width="33.3%" align="center">
       <a href="https://youtu.be/VU8c3B2G0Lo" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/VU8c3B2G0Lo/0.jpg" alt="2026 Result 1" width="100%"><br>
-        🎬 2026 成果作品 1
+        🎬FORSAKEN
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/k7JCcOx8mJo" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/k7JCcOx8mJo/0.jpg" alt="2026 Result 2" width="100%"><br>
-        🎬 2026 成果作品 2
+        🎬 李瑞期
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/ULoKU4VA0to" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/ULoKU4VA0to/0.jpg" alt="2026 Result 3" width="100%"><br>
-        🎬 2026 成果作品 3
+        🎬 BAD APPLE
       </a>
     </td>
   </tr>
@@ -138,19 +138,19 @@
     <td width="33.3%" align="center">
       <a href="https://youtu.be/q8dl5AEDBTs" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/q8dl5AEDBTs/0.jpg" alt="2026 Result 4" width="100%"><br>
-        🎬 2026 成果作品 4
+        🎬 修羅
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/tLvHPs3-GSg" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/tLvHPs3-GSg/0.jpg" alt="2026 Result 5" width="100%"><br>
-        🎬 2026 成果作品 5
+        🎬 孔繁晴
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/roGEjevqmqs" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/roGEjevqmqs/0.jpg" alt="2026 Result 6" width="100%"><br>
-        🎬 2026 成果作品 6
+        🎬 Noa
       </a>
     </td>
   </tr>
@@ -165,19 +165,19 @@
     <td width="33.3%" align="center">
       <a href="https://youtu.be/EtXDwIwOYJc" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/EtXDwIwOYJc/0.jpg" alt="2025 Result 1" width="100%"><br>
-        🎬 2025 成果作品 1
+        🎬 む う 🦭
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/d0j2c98tNHg" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/d0j2c98tNHg/0.jpg" alt="2025 Result 2" width="100%"><br>
-        🎬 2025 成果作品 2
+        🎬  igloo
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/QMvLnIeeIQ4" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/QMvLnIeeIQ4/0.jpg" alt="2025 Result 3" width="100%"><br>
-        🎬 2025 成果作品 3
+        🎬 Kyoufuu All Back
       </a>
     </td>
   </tr>
@@ -185,19 +185,19 @@
     <td width="33.3%" align="center">
       <a href="https://www.youtube.com/watch?v=mIzLXEtFybc" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/mIzLXEtFybc/0.jpg" alt="2025 Result 4" width="100%"><br>
-        🎬 2025 成果作品 4
+        🎬 何美玲
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/fz2pVe5SybU" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/fz2pVe5SybU/0.jpg" alt="2025 Result 5" width="100%"><br>
-        🎬 2025 成果作品 5
+        🎬 Space
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://www.youtube.com/watch?v=Ftr2pT1rtDo" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/Ftr2pT1rtDo/0.jpg" alt="2025 Result 6" width="100%"><br>
-        🎬 2025 成果作品 6
+        🎬 林紫琪
       </a>
     </td>
   </tr>
@@ -212,19 +212,19 @@
     <td width="33.3%" align="center">
       <a href="https://youtu.be/1W1ltx78SWs" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/1W1ltx78SWs/0.jpg" alt="2024 Result 1" width="100%"><br>
-        🎬 2024 成果作品 1
+        🎬 應威德
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/G1j7m-Uk5EM" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/G1j7m-Uk5EM/0.jpg" alt="2024 Result 2" width="100%"><br>
-        🎬 2024 成果作品 2
+        🎬 ŁiLia
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/3BgU5cTgQVs" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/3BgU5cTgQVs/0.jpg" alt="2024 Result 3" width="100%"><br>
-        🎬 2024 成果作品 3
+        🎬莊家鈞
       </a>
     </td>
   </tr>
@@ -232,19 +232,21 @@
     <td width="33.3%" align="center">
       <a href="https://youtu.be/ywB_a-2H4SQ" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/ywB_a-2H4SQ/0.jpg" alt="2024 Result 4" width="100%"><br>
-        🎬 2024 成果作品 4
+        🎬 登登登登登
       </a>
     </td>
     <td width="33.3%" align="center">
       <a href="https://youtu.be/l_uQ58vvfU4" target="_blank" rel="noopener noreferrer">
         <img src="https://img.youtube.com/vi/l_uQ58vvfU4/0.jpg" alt="2024 Result 5" width="100%"><br>
-        🎬 2024 成果作品 5
+        🎬 Zt_0000
       </a>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://youtu.be/fz2pVe5SybU" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.youtube.com/vi/fz2pVe5SybU/0.jpg" alt="2024 Result 6" width="100%"><br>
-        🎬 2024 成果作品 6
+  <a href="https://www.youtube.com/watch?v=Z16548VLY3Y" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/Z16548VLY3Y/0.jpg" alt="田宏翔 dj音樂特效" width="100%"><br>
+    🎬 田宏翔
+  </a>
+</td>
       </a>
     </td>
   </tr>
