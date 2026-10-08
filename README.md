@@ -22,7 +22,7 @@
 - [👨‍🏫 課程團隊](#-課程團隊)
 - [🌟 教學目標](#-教學目標)
 - [📺 教材示範影片](#-教材示範影片)
-- [🌟 2026 最新學生成果展示 (MIDI Control 展示)](#-2026-最新學生成果展示midi-control-展示)
+- [🌟 2026 學生成果展示 (MIDI Control)](#-2026-最新學生成果展示midi-control-展示)
 - [🌟 2026 學生成果展示](#-2026-學生成果展示)
 - [🌟 2025 學生成果展示](#-2025-學生成果展示)
 - [🌟 2024 學生成果展示](#-2024-學生成果展示)
@@ -62,7 +62,7 @@
 
 ---
 
-## 🌟 2026 學生成果展示 (MIDI Control 展示)
+## 🌟 2026 學生成果展示 (MIDI Control)
 
 <table align="center">
   <tr>
@@ -92,8 +92,17 @@
         🎬 Constance MW
       </a>
     </td>
-    <td width="33.3%" align="center" colspan="2">
-      <!-- 預留空間或可繼續填入其他項目 -->
+    <td width="33.3%" align="center">
+      <a href="https://www.youtube.com/watch?v=DZ8FGM77m28" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/DZ8FGM77m28/0.jpg" alt="TRIANGLE" width="100%"><br>
+        🎬 TRIANGLE
+      </a>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://www.youtube.com/watch?v=N0upEOAkVe8" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/N0upEOAkVe8/0.jpg" alt="KOU A" width="100%"><br>
+        🎬 KOU A
+      </a>
     </td>
   </tr>
 </table>
