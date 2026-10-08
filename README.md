@@ -30,10 +30,21 @@
 
 ---
 
-## 👨‍🏫 課程團隊
-- **指導老師**：[韓秉軒 Han Ping-Hsuan](https://ixd.ntut.edu.tw/p/406-1089-110727,r1713.php?Lang=zh-tw) 副教授
-- **開課單位**：國立臺北科技大學 互動設計系 (IxD, NTUT)
+---
 
+## 👨‍🏫 課程團隊
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div>
+    <img src="https://ixd.ntut.edu.tw/var/file/89/1089/pictures/280/m/mczh-tw700x700_large19125_980685165558.jpeg" alt="韓秉軒副教授照片" width="150" style="border-radius: 8px;">
+  </div>
+  <div>
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li><strong>指導老師</strong>：<a href="https://ixd.ntut.edu.tw/p/406-1089-110727,r1713.php?Lang=zh-tw" target="_blank" rel="noopener noreferrer">韓秉軒 Han Ping-Hsuan</a> 副教授</li>
+      <li><strong>開課單位</strong>：國立臺北科技大學 互動設計系 (IxD, NTUT)</li>
+    </ul>
+  </div>
+</div>
 ---
 
 ## 🌟 教學目標
